@@ -38,3 +38,4 @@ This code snippet demonstrates a simple linear regression analysis performed in 
     - The model is also used to predict sales for new input values (TV=100, Radio=50, Newspaper=30). This demonstrates how the model can be applied to new, unseen data.
 
 In summary, this code demonstrates how to train a linear regression model to predict sales based on marketing expenditures. It involves loading and exploring the data, preparing it for training, evaluating the model’s performance, visualizing the results, and making predictions for new data. This process is commonly used for predictive analytics in business contexts, and Jupyter Notebooks are ideal for such tasks due to their interactive nature and ability to combine code, visualizations, and explanations in one document.
+***OUTPUT***:![Image](https://github.com/user-attachments/assets/baee22c0-e27c-46f0-8c69-cbe1892bfd78)
